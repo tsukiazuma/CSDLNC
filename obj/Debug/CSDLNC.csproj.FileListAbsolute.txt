@@ -1,0 +1,10 @@
+E:\CSDLNC\bin\Debug\CSDLNC.exe.config
+E:\CSDLNC\bin\Debug\CSDLNC.exe
+E:\CSDLNC\bin\Debug\CSDLNC.pdb
+E:\CSDLNC\obj\Debug\CSDLNC.csprojAssemblyReference.cache
+E:\CSDLNC\obj\Debug\CSDLNC.Form1.resources
+E:\CSDLNC\obj\Debug\CSDLNC.Properties.Resources.resources
+E:\CSDLNC\obj\Debug\CSDLNC.csproj.GenerateResource.cache
+E:\CSDLNC\obj\Debug\CSDLNC.csproj.CoreCompileInputs.cache
+E:\CSDLNC\obj\Debug\CSDLNC.exe
+E:\CSDLNC\obj\Debug\CSDLNC.pdb
